@@ -1,5 +1,7 @@
 # symmetrical-chainsaw
 
-doot
+- doot
+- beep
+- yes
 
 ![it me](me.jpg)
